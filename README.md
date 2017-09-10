@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/spoorcc/cdepgraph.svg?branch=master)](https://travis-ci.org/spoorcc/cdepgraph)
+
 # cdepgraph - C(++) dependency graph generator
 
 ## Usage
