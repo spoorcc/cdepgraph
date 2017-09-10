@@ -41,7 +41,7 @@ startScan dir = do
         mapM_ (putStrLn . ("    " ++ ) . T.unpack) i
         )
         processed
-    
+    {-
     let (clusters,srcFilesI) = clusterize processed
 
     -- putStrLn "PROCESSED:"
@@ -55,5 +55,5 @@ startScan dir = do
             exitFailure
         test (Right list) =
             return list
-        
+      -}  
 
